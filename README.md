@@ -2,7 +2,7 @@
 
 - A Simple Document Summarizing Webpage
 - This webpage is created using HTML, CSS, and JavaScript.
-- This usesPDF.js a JavaScript library that renders Portable Document Format files using the web standards.
+- This uses PDF.js a JavaScript library that renders Portable Document Format files using the web standards.
 
 ## SAMPLE OUTPUT
 
